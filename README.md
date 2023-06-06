@@ -9,7 +9,6 @@ The implementation of the below changes create a more user accessible site with 
 * Background color darkened to enhance visibility for those with visual disabilities
 * Reordered lists so that they fall in sequential/alphabetical order 
 * Added semantic HTML elements (id, div, class) to structure or webpage
-* 
 
 # Licenses
 MIT License
